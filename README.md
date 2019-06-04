@@ -1,3 +1,5 @@
+![alt text](https://techpoli.info/wp-content/uploads/2019/03/zabbix_logo_500x131.png)
+
 # Informações
 Scripts para facilitar a instalação do Zabbix Agente no Windows.
 Lembrando que alguns parametros devem ser alterados para rodar na sua estrutura.
