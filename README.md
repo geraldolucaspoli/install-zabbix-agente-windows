@@ -1,2 +1,2 @@
 # zabbix
-Scripts para facilitar a administração com Zabbix
+Scripts para facilitar a instalação do Zabbix Agente no Windows.
