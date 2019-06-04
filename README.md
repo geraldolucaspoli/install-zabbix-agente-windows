@@ -1,4 +1,4 @@
-# zabbix
+# Informações
 Scripts para facilitar a instalação do Zabbix Agente no Windows.
 Lembrando que alguns parametros devem ser alterados para rodar na sua estrutura.
 
