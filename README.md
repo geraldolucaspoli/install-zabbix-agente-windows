@@ -5,6 +5,7 @@ Scripts para facilitar a instalação do Zabbix Agente no Windows.
 Lembrando que alguns parametros devem ser alterados para rodar na sua estrutura.
 
 ### H3 Alterar no Modulo 3 aonde está os arquivos binários para o sistema:
+No Script da versão 3.4 já deixei o repositorio no GIT assim não precisa mais setar local para download, basta apenas ter internet no servidor a ser instalado.
 
 REM #MODULO 3
 xcopy \\192.168.2.12\zabbix\zabbix_agents-4.0.0-win\bin\win64\zabbix_agentd.exe c:\zabbix\
